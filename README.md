@@ -6,7 +6,7 @@ The task aims to find correct spelling of mis-spelled words in the Brikbeck corp
 ## Setup
 To setup the environment which I used to create this project. Just run 
 ```
-pip install -f requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Assumptions
