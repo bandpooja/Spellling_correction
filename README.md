@@ -3,6 +3,12 @@
 For Assignment 1 I have used the *Levenshtein distance* of all the words in the **Brikbeck** corpus with every word in **WordNet** corpus.
 The task aims to find correct spelling of mis-spelled words in the Brikbeck corpus.
 
+## Setup
+To setup the environment which I used to create this project. Just run 
+```
+pip install -f requirements.txt
+```
+
 ## Assumptions
 The task of finding distance of one word against every other word is very unnecessary and time consuming. So I have a made the following assumptions to reduce the amount of time required to finish the analysis:
 - Only those words who have atleast one character in common with the mis-spelled word are considered as contenders for correct spelling. This assumption holds for all the words that I manually investigated.
