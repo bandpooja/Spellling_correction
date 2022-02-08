@@ -18,7 +18,7 @@ The task of finding distance of one word against every other word is very unnece
 The [corpus](https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/0643) itself contains a lot of text files each with a slightly different rule to extract the incorrect and correct word pairing. So we used a processed version of the same corpus (src: [Roger-Milton (same author)](https://www.dcs.bbk.ac.uk/~roger/corpora.html)). This is just easier to read the ditonary from.
 
 ## Structuce
-All the essential functions have been added to the utils folder and the python script `assignment1.py` and the notebook `assignment1.ipynb` just uses these function to generate results.
+All the essential/useful functions have been added to the **utils folder** and the python script `assignment1.py` and the notebook `assignment1.ipynb` just uses these function to generate results.
 
 
 ## Parallelization 
