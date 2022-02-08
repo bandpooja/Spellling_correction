@@ -14,14 +14,6 @@ if __name__ == "__main__":
     result_dir = r'Result'
     os.makedirs(result_dir, exist_ok=True)
 
-    # with ZipFile('Data/0643.zip', 'r') as zipObj:
-    #     zipObj.extractall()
-    #
-    # # There is just one file where there are incorrect words
-    # f = open("ABODAT.643", "r")
-    # data = []
-    # count = 1
-
     correct_spellings = []
     incorrect_spellings = []
     file_ = open('Data/missp.dat', 'r')
