@@ -1,6 +1,6 @@
-# Assignment 1
 
-For Assignment 1 I have used the *Levenshtein distance* of all the words in the **Brikbeck** corpus with every word in **WordNet** corpus.
+
+For Assignment  I have used the *Levenshtein distance* of all the words in the **Brikbeck** corpus with every word in **WordNet** corpus.
 The task aims to find correct spelling of mis-spelled words in the Brikbeck corpus.
 
 ## Setup
